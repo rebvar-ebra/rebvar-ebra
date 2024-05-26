@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm  Rebvar  from Kurdistan<br><br>- 🔭 I’m working as full-stack developer<br>- 📚 I'm currently learning  rust to make and deploy my Dapp application<br>- ⚡ In my free time I learn Deutsch language .</p>
+<p align="left">I'm  Rebvar  from Kurdistan<br><br>- 🔭 I’m working as a full-stack developer<br>- 📚 I'm currently learning  rust to make and deploy my Dapp application<br>- ⚡ In my free time I learn Deutsch language .</p>
 
 ###
 

@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey there, World! 👋</h1>
 
 ###
 
@@ -21,9 +21,10 @@
 ###
 
 <p align="left">
-  I'm Rebvar and currently, i live in Berlin <br><br>
-  - 🔭 I’m working as a junior developer<br>
-  - ⚡ In my free time, I learn German.
+  I'm Rebvar, a passionate junior developer from Kurdistan! 🚀<br><br>
+  - 🔭 Currently diving deep into full-stack development and loving every moment!<br>
+  - 📚 On a quest to master Rust and build my own DApp applications.<br>
+  - ⚡ When I'm not coding, you’ll find me exploring the German language and culture—it's a fun challenge!
 </p>
 
 ###
@@ -48,7 +49,7 @@
 
 ###
 
-<h3 align="left">🔥 My Stats:</h3>
+<h3 align="left">🔥 My Coding Journey:</h3>
 
 ###
 
@@ -68,4 +69,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rebvar-ebra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="GitHub stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rebvar-ebra&locale=en&hide_title=false&layout=compact&
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rebvar-ebra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Top languages graph" />
+</div>
+
+###

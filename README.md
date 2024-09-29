@@ -21,9 +21,8 @@
 ###
 
 <p align="left">
-  I'm Rebvar from Kurdistan<br><br>
-  - 🔭 I’m working as a full-stack developer<br>
-  - 📚 I'm currently learning Rust to make and deploy my DApp application<br>
+  I'm Rebvar and currently, i live in Berlin <br><br>
+  - 🔭 I’m working as a junior developer<br>
   - ⚡ In my free time, I learn German.
 </p>
 
